@@ -1,3 +1,4 @@
+Certainly! Below is a README.md file for your simple inventory management program. This README provides an overview of the program, instructions for usage, and a brief explanation of how the program works.
 
 ```markdown
 # Simple Inventory Management System in C++
