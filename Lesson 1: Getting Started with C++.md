@@ -1,5 +1,3 @@
-Lesson 1: "Getting Started with C++" with a detailed example. In this example, we'll create a simple "Hello, World!" program in C++ to ensure that your development environment is set up correctly.
-
 ## Lesson 1: Getting Started with C++
 
 **Example: Creating a "Hello, World!" Program**

@@ -1,5 +1,3 @@
-Lesson 2: "Variables and Data Types," along with an example. In this lesson, you'll learn how to declare variables, work with different data types, and perform basic operations.
-
 ## Lesson 2: Variables and Data Types
 
 **Example: Calculating Area of a Rectangle**

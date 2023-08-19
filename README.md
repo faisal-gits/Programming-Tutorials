@@ -97,4 +97,4 @@ As the culmination of the course, students will work on a final project to creat
 
 ## Conclusion
 
-By completing this course, you'll have gained a solid foundation in C++ programming. You'll be capable of writing and understanding basic programs, and you'll have the tools to explore more advanced topics in the world of software development. Remember, practice is key, so keep coding and experimenting to strengthen your skills further!
+In Lessons 5 to 10, you've explored important concepts in C++ programming, including functions, arrays, pointers, object-oriented programming (OOP), inheritance, and polymorphism. The provided examples illustrate how to use these concepts effectively to build more complex and feature-rich programs. These concepts are the building blocks for developing a wide range of applications in C++. As you progress in your programming journey, these skills will serve as a strong foundation for tackling more advanced challenges.
