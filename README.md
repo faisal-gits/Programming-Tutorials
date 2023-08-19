@@ -34,7 +34,7 @@ To get started with the tutorials, follow these steps:
 1. Clone this repository to your local machine using the following command:
 
    ```
-   git clone https://github.com/your-username/Programming-Tutorials.git
+   git clone https://github.com/faisal-gits/Programming-Tutorials.git
    ```
 
 2. Navigate to the directory of the specific language you want to learn.
