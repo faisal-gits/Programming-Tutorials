@@ -1,4 +1,4 @@
-README.md template for a Programming Tutorials repository that covers C, C++, HTML, CSS, JavaScript, and PHP.
+Programming Tutorials repository that covers C, C++, HTML, CSS, JavaScript, and PHP.
 
 ```markdown
 # Programming Tutorials
