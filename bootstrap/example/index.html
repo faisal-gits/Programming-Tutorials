@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tech Startup</title>
+    <!-- Bootstrap CSS from CDN -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Bootstrap Icons from CDN -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css" rel="stylesheet">
+    <!-- Custom styles -->
+    <style>
+        .hero-section {
+            background: url('hero-bg.jpg') center/cover no-repeat;
+            color: white;
+            text-align: center;
+            padding: 150px 0;
+        }
+
+        .features-section {
+            background-color: #f8f9fa;
+            padding: 100px 0;
+        }
+
+        .team-section {
+            padding: 100px 0;
+        }
+
+        .contact-form {
+            padding: 100px 0;
+        }
+
+        .footer {
+            background-color: #343a40;
+            color: white;
+            text-align: center;
+            padding: 50px 0;
+        }
+    </style>
+</head>
+
+<body>
+
+    <!-- Navigation Bar -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="#">Tech Startup</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link" href="#features">Features</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#team">Team</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#contact">Contact</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="hero-section">
+        <div class="container">
+            <h1>Welcome to Tech Startup</h1>
+            <p>Your innovative solutions partner for the digital age.</p>
+            <a href="#contact" class="btn btn-primary btn-lg">Get Started</a>
+        </div>
+    </section>
+
+    <!-- Features Section -->
+    <section id="features" class="features-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-4">
+                    <i class="bi bi-lightbulb h1"></i>
+                    <h3>Innovative Ideas</h3>
+                    <p>Explore groundbreaking ideas to transform your business.</p>
+                </div>
+                <div class="col-lg-4">
+                    <i class="bi bi-globe h1"></i>
+                    <h3>Global Reach</h3>
+                    <p>Expand your reach and connect with customers worldwide.</p>
+                </div>
+                <div class="col-lg-4">
+                    <i class="bi bi-shield h1"></i>
+                    <h3>Security First</h3>
+                    <p>Ensure the security of your data and digital assets.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Team Section -->
+    <section id="team" class="team-section">
+        <div class="container">
+            <h2>Meet Our Team</h2>
+            <div class="row">
+                <div class="col-lg-4">
+                    <img src="https://www.pngkey.com/png/full/52-522921_kathrine-vangen-profile-pic-empty-png.png" alt="Team Member 1" class="img-fluid rounded-circle mb-3">
+                    <h4>John Doe</h4>
+                    <p>Founder & CEO</p>
+                </div>
+                <div class="col-lg-4">
+                    <img src="https://www.pngkey.com/png/full/52-522921_kathrine-vangen-profile-pic-empty-png.png" alt="Team Member 2" class="img-fluid rounded-circle mb-3">
+                    <h4>Jane Smith</h4>
+                    <p>Chief Technology Officer</p>
+                </div>
+                <div class="col-lg-4">
+                    <img src="https://www.pngkey.com/png/full/52-522921_kathrine-vangen-profile-pic-empty-png.png" alt="Team Member 3" class="img-fluid rounded-circle mb-3">
+                    <h4>Michael Johnson</h4>
+                    <p>Lead Developer</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="contact-form">
+        <div class="container">
+            <h2>Contact Us</h2>
+            <form>
+                <div class="mb-3">
+                    <label for="name" class="form-label">Name</label>
+                    <input type="text" class="form-control" id="name" required>
+                </div>
+                <div class="mb-3">
+                    <label for="email" class="form-label">Email</label>
+                    <input type="email" class="form-control" id="email" required>
+                </div>
+                <div class="mb-3">
+                    <label for="message" class="form-label">Message</label>
+                    <textarea class="form-control" id="message" rows="5" required></textarea>
+                </div>
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </form>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2023 Tech Startup. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <!-- Bootstrap JS from CDN -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.min.js"></script>
+
+</body>
+
+</html>
