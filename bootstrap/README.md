@@ -41,7 +41,7 @@ Welcome to the Bootstrap Tutorial repository! This tutorial will guide you throu
 To get started with the tutorial, simply clone this repository to your local machine and follow the instructions provided in the tutorial pages. Each section contains detailed explanations, code examples, and exercises to help you grasp Bootstrap concepts effectively.
 
 ```bash
-git clone https://github.com/your-username/bootstrap-tutorial.git
+git clone https://github.com/faisal-gits/Programming-Tutorials
 cd bootstrap-tutorial
 ```
 
